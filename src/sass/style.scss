@@ -1,0 +1,16 @@
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+    flex-direction: column;
+	transition: all 1s;
+	// komentarz
+	appearance: none;
+	background-color: rgb(255, 114, 71);
+}
+
+p {
+	font-family: sans-serif;
+	font-size: 48px;
+	color: #000;
+}
